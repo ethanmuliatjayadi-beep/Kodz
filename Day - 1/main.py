@@ -1,4 +1,5 @@
 import random
+import time
 
 class character:
     def __init__(self):
