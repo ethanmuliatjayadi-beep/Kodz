@@ -1,2 +1,3 @@
-# Koding-Next
-Koding Next Progress
+# Koding Next Progress
+My extra coding lesson progress
+:pp
